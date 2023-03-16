@@ -19,6 +19,7 @@ Proteus Software
 ![WhatsApp Image 2023-03-16 at 11 53 37](https://user-images.githubusercontent.com/65499285/225663113-03c5806d-9613-4c5e-a608-36f84fc2e4eb.jpg)
 
 ## Manual PCB Layout: 
+![WhatsApp Image 2023-03-16 at 21 00 01](https://user-images.githubusercontent.com/65499285/225666909-fb922be1-2c8b-4be1-a6a0-a556b1c46f63.jpg)
 
 
 ## Result:
