@@ -15,7 +15,8 @@ Proteus Software
 - After making all the connections, click the run button to start the simulation. 
 - Finally, manually draw the PCB layout for the circuit.
 
-## Circuit Diagram and simulation output: 
+## Circuit Diagram:
+
 
 
 ## Manual PCB Layout: 
