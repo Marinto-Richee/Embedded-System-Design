@@ -15,7 +15,7 @@ Open pcb layout and convert it to 3d view.
 Open IDE software configure the I/O pins.
 #### STEP 4: 
 Write the code for seven segment display and buzzer.
-## STEP 5: 
+#### STEP 5: 
 Uplode the elf file and run.
 
 ### Schematic:
