@@ -146,6 +146,10 @@ int main(void)
 ![Screenshot 2023-04-24 110824](https://user-images.githubusercontent.com/65499285/233920231-ee96c0ea-20cb-4e57-90e3-9312bd1cdae3.png)
 
 #### BottomLayer:
+![image](https://user-images.githubusercontent.com/65499285/235099368-1df410ce-d866-4d57-a4da-d4afe1463bb5.png)
+
 ### 3D View:
+![image](https://user-images.githubusercontent.com/65499285/235099324-ffc8dd62-0957-4f60-9a1b-3a9a9e795e19.png)
+
 ### Result:
 Thus the simulation of token number display with buzzer is executed succesfully.
