@@ -29,5 +29,4 @@ This repository contains the design files for an STM32 Development board created
 
 The result of this project is a fully functional STM32 Development board that can be used for various embedded systems projects, prototyping, and testing. With this board, developers can quickly start working on STM32 microcontroller-based projects without the need for designing the board from scratch.
 
-Please refer to the design files and documentation in this repository for more details on the board's specifications, schematic, PCB layout, and assembly instructions.
 
