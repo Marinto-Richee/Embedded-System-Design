@@ -1,8 +1,9 @@
 # STM32 Development Board Design using Proteus
 
-This repository contains the design files for an STM32 Development board created using Proteus software. The aim of this project is to provide a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes.
+## Aim:
+The design a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes.
 
-## Design Steps
+## Design Steps:
 
 1. **Components Selection**: Choose the appropriate STM32 microcontroller based on your requirements, such as processing power, memory, peripherals, etc. Select other necessary components like voltage regulators, crystal oscillator, connectors, and LEDs.
 
@@ -27,6 +28,5 @@ This repository contains the design files for an STM32 Development board created
 
 ## Result
 
-The result of this project is a fully functional STM32 Development board that can be used for various embedded systems projects, prototyping, and testing. With this board, developers can quickly start working on STM32 microcontroller-based projects without the need for designing the board from scratch.
-
+Thus, a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes is designed successfully.
 
