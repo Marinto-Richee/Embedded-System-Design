@@ -20,7 +20,7 @@ Uplode the elf file and run.
 
 ## Schematic:
 
-![schematic](https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png)
+<img src="https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png" width="600" height="600">
 
 ## Code:
 ```
@@ -135,8 +135,6 @@ int main(void)
 
 ## 3D View:
 <img src="https://user-images.githubusercontent.com/65499285/235099324-ffc8dd62-0957-4f60-9a1b-3a9a9e795e19.png" width="650" height="650">
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Result:
 Thus, the simulation of token number display with buzzer is executed succesfully.
