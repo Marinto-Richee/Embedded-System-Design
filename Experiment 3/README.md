@@ -1,6 +1,6 @@
 # STM32 Based Token Number Display System
 
-## AIM:
+## Aim:
 To develop a single sided PCB board for a single digit token number display system with buzzer.
 
 ## Requirement:
@@ -64,7 +64,6 @@ void display(int n)
 							HAL_GPIO_WritePin(GPIOA, GPIO_PIN_7, GPIO_PIN_SET);
 						else
 							HAL_GPIO_WritePin(GPIOA, GPIO_PIN_7, GPIO_PIN_RESET);
-
 		}
 		else
 		{
@@ -76,9 +75,7 @@ void display(int n)
 			HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 			HAL_GPIO_WritePin(GPIOA, GPIO_PIN_6, GPIO_PIN_RESET);
 			HAL_GPIO_WritePin(GPIOA, GPIO_PIN_7, GPIO_PIN_RESET);
-
 		}
-
 }
 /* USER CODE END 0 */
 /**
@@ -129,11 +126,11 @@ int main(void)
 
 ![Screenshot 2023-04-24 110838](https://user-images.githubusercontent.com/65499285/233920276-3ef2a3cc-cda2-4e40-8255-ebb8c105eef3.png)
 
-### Top Layer:
+## Top Layer:
 
 ![Screenshot 2023-04-24 110824](https://user-images.githubusercontent.com/65499285/233920231-ee96c0ea-20cb-4e57-90e3-9312bd1cdae3.png)
 
-### Bottom Layer:
+## Bottom Layer:
 ![image](https://user-images.githubusercontent.com/65499285/235099368-1df410ce-d866-4d57-a4da-d4afe1463bb5.png)
 
 ## 3D View:
