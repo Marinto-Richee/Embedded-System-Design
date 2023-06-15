@@ -22,11 +22,12 @@ The design a ready-to-use development board for STM32 microcontrollers, which ca
 8. **Assembly**: Once you receive the fabricated PCBs, start the assembly process. Solder the components onto the board, following industry-standard techniques. Take care of component orientation, solder joints, and cleanliness.
 
 9. **Testing**: After assembly, perform thorough testing of the development board. Check for any short circuits, open connections, or incorrect component placements. Test the functionality and verify that the STM32 microcontroller and peripherals are working as expected.
+
 ## Output:
 
 ![test (1)](https://github.com/Marinto-Richee/Embedded-System-Design/assets/65499285/fb30272a-77b2-4664-8cf1-085d9732aabc)
 
-## Result
+## Result:
 
 Thus, a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes is designed successfully.
 
