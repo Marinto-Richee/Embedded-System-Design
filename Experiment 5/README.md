@@ -274,7 +274,7 @@ M02
 ![14-06-2023 Board](https://github.com/Marinto-Richee/Embedded-System-Design/assets/65499285/b7b34379-89be-4956-9afd-28974be78ffd)
 
 ## Manufactured PCB:
-![image](https://github.com/Marinto-Richee/Embedded-System-Design/assets/65499285/e93469dd-a8f9-4f7e-b185-80010be7771e)
+<img src="https://github.com/Marinto-Richee/Embedded-System-Design/assets/65499285/e93469dd-a8f9-4f7e-b185-80010be7771e" height="600">
 
 ## Result:
 Thus, a PCB board is designed and developed for a specific application.
