@@ -1,7 +1,7 @@
 # STM32 Development Board Design using Proteus
 
 ## Aim:
-The design a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes.
+To design a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes.
 
 ## Design Steps:
 
