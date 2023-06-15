@@ -1,28 +1,28 @@
 # STM32 Based Token Number Display System
 
-### AIM:
+## AIM:
 To develop a single sided PCB board for a single digit token number display system with buzzer.
 
-### Requirement:
-* proteus software
+## Requirement:
+* Proteus software
 * CUBE IDE software
-### Procedure:
-#### STEP 1: 
+## Procedure:
+### STEP 1: 
 Open proteus software and draw the schematic diagram.
-#### STEP 2: 
+### STEP 2: 
 Open pcb layout and convert it to 3d view.
-#### STEP 3: 
+### STEP 3: 
 Open IDE software configure the I/O pins.
-#### STEP 4: 
+### STEP 4: 
 Write the code for seven segment display and buzzer.
-#### STEP 5: 
+### STEP 5: 
 Uplode the elf file and run.
 
-### Schematic:
+## Schematic:
 
 ![schematic](https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png)
 
-### Code:
+## Code:
 ```
 ~~~
 void display(int n)
@@ -137,19 +137,19 @@ int main(void)
 }
 ~~~
 ```
-### PCB Layout:
+## PCB Layout:
 
 ![Screenshot 2023-04-24 110838](https://user-images.githubusercontent.com/65499285/233920276-3ef2a3cc-cda2-4e40-8255-ebb8c105eef3.png)
 
-#### TopLayer:
+### Top Layer:
 
 ![Screenshot 2023-04-24 110824](https://user-images.githubusercontent.com/65499285/233920231-ee96c0ea-20cb-4e57-90e3-9312bd1cdae3.png)
 
-#### BottomLayer:
+### Bottom Layer:
 ![image](https://user-images.githubusercontent.com/65499285/235099368-1df410ce-d866-4d57-a4da-d4afe1463bb5.png)
 
-### 3D View:
+## 3D View:
 ![image](https://user-images.githubusercontent.com/65499285/235099324-ffc8dd62-0957-4f60-9a1b-3a9a9e795e19.png)
 
-### Result:
-Thus the simulation of token number display with buzzer is executed succesfully.
+## Result:
+Thus, the simulation of token number display with buzzer is executed succesfully.
