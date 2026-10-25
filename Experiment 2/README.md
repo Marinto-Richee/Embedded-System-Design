@@ -9,7 +9,7 @@ To draw the schematic and simulate the embedded system for the given requirement
 ## Steps:
 - We start by designing the circuit in Proteous.
 - 4 switches and a pair of LEDs are used for each switch.
-- The necessary connections are layed out to complete the flow from the input switch through the processor and then finally to the LEDs.
+- The necessary connections are laid out to complete the flow from the input switch through the processor and then finally to the LEDs.
 - Once the entire layout has been designed, we move to coding the Microcontroller. 
 - In Cube IDE we configure the necessary pins as GPIO input and output pins.
 - Then we use a logical counter to blink the LEDs according to their respective frequencies.
