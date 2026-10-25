@@ -6,7 +6,7 @@ To simulate a simple circuit and draw the PCB Layout.
 ## Problem Statement:
 Design a circuit of your choice in any simulation software. Upon successful simulation, draw the PCB layout of the designed circuit.
 
-## Equipments Required:
+## Equipment Required:
 Proteus Software
 
 ## Steps:

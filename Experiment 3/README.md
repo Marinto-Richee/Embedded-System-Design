@@ -137,4 +137,4 @@ int main(void)
 <img src="https://user-images.githubusercontent.com/65499285/235099324-ffc8dd62-0957-4f60-9a1b-3a9a9e795e19.png" width="650" height="650">
 
 ## Result:
-Thus, the simulation of token number display with buzzer is executed succesfully.
+Thus, the simulation of token number display with buzzer is executed successfully.
